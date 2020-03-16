@@ -4,9 +4,9 @@ This project is cli project using Python3 and then packaged the application usin
 # Steps to start the app:
 * Pull the image: 
     - docker pull 2761996/fund-raise-python3
-* Create a container and run the image: 
+* Run a container: 
     - docker container run -it 2761996/fund-raise-python3
-* The code inside the image: 
+* Access the code from thriughout the image itslef: 
     - docker container run -it 2761996/fund-raise-python3 /bin/bash
     - ls -> This will show the main.py file for the main funtion and the folder of the app's code.
     - cd Fund_raise_ayman_soliman/
