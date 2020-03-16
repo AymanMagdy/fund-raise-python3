@@ -1,5 +1,5 @@
 # fund-raise-python3
-This project is cli project using Python3 and and then packaged the application using Docker version (19.03.8).
+This project is cli project using Python3 and then packaged the application using Docker version (19.03.8).
 
 # Steps to start the app:
 * Pull the image: 
